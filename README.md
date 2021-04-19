@@ -54,4 +54,5 @@ C: Common terminal,
 
 ## Breadboard Layout
 
+![image](https://user-images.githubusercontent.com/80098914/115273246-f92a9700-a147-11eb-8f69-b102c861d76b.png)
 
