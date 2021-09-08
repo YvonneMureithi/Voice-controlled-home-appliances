@@ -1,5 +1,5 @@
-#define WIFI_NAME "GEARBOX STAFF"
-#define WIFI_PASSWORD "Staff@Gearbox"
+#define WIFI_NAME "********"
+#define WIFI_PASSWORD "*********"
 #define DEVICE_ID 2
 #define DEVICE_NAME "Google_ESP"
 #define TOKEN "~1005414_T1rxsp5LTq1icC94eu1WVEGW"
